@@ -12,7 +12,7 @@ body{
 }
 .ph{
 	text-align:left;
-	background-image:url("img.png");
+	background-image:url("images/img.png");
 	color:white;
 	width:100%;
 	background-size:100%;
@@ -59,7 +59,7 @@ body{
 
 .ph2{
 	text-align:left;
-	background-image:url("back.png");
+	background-image:url("images/back.png");
 	color:white;
 	width:100%;
 	background-size:100%;
@@ -71,7 +71,7 @@ body{
 
 .ph3{
 	text-align:left;
-	background-image:url("backg.png");
+	background-image:url("images/backg.png");
 	color:white;
 	width:100%;
 	background-size:100%;
