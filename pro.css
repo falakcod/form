@@ -1,0 +1,91 @@
+body{
+	margin:0;
+	padding:0;
+}
+.header{
+    background-color:#525252;
+	color:white;
+	display:block;
+	padding:7px;
+	margin:0px;
+	
+}
+.ph{
+	text-align:left;
+	background-image:url("img.png");
+	color:white;
+	width:100%;
+	background-size:100%;
+	background-position:center;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
+.ver{
+	display:flex;
+	gap:10px;
+	align-items:stretch;
+	
+}
+.box{
+	border-radius:12px;
+	box-shadow:0 8px 20px rgba(0,0,0,0.1);
+	text-align:center;
+	background-color:lightgray;
+}
+
+.box2{
+	width:240px;
+	height:210px;
+	background-color:black;
+	border-radius:12px;
+	box-shadow:0 8px 20px rgba(0,0,0,0.1);
+	text-align:center;
+}
+
+.col{
+	border-collapse:separate;
+	background-color:lightgray;
+	border:solid 4px;
+	overflow:hidden;
+    border-radius:15px;
+}
+
+.p{
+	display:flex;
+	gap:10px;
+	align-items:stretch;
+}
+
+.ph2{
+	text-align:left;
+	background-image:url("back.png");
+	color:white;
+	width:100%;
+	background-size:100%;
+	background-position:center;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
+
+.ph3{
+	text-align:left;
+	background-image:url("backg.png");
+	color:white;
+	width:100%;
+	background-size:100%;
+	background-position:center;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
+
+.butt{
+	color:white;
+	padding:5px 8px;
+	border-radius:100px;
+	background-color:#874E8C;
+	border:solid 4px;
+}
+	
